@@ -1,2 +1,2 @@
-apt install nodejs npm -y
+apt install nodejs -y
 npm install -g bash-obfuscate
